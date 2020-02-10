@@ -1,1 +1,10 @@
+---
+title: "Central Limit Theorem (CLT)"
+output:
+  html_document:
+    toc: true
+---
+
+# Preface
+
 There is a beautiful fact in statistics called the Central Limit Theorem (CLT). It states that the distribution of a sum of $N$ independent, identically distributed (i.i.d.) random variables $X_i$ has normal distribution in the limit of large $N$, regardless of the distribution of the variables $X_i$ (under some very mild conditions, strictly speaking).
